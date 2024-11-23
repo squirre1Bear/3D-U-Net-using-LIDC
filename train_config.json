@@ -1,0 +1,15 @@
+{
+  "num_classes": 2,
+  "batch_size": 2,
+  "num_epoch": 10,
+  "lr": 0.00001,
+  "weight_decay": 1e-4,
+  "momentum": 0.95,
+  "train_data": "E:\\LIDC_dataset\\train_dataset",
+  "test_data": "E:\\LIDC_dataset\\test_dataset",
+  "summary_path": "C:\\Users\\91604\\Desktop\\lungSeg\\LIDC\\runs",
+  "save_model": {
+    "save": true,
+    "save_path": "saved/"
+  }
+}
